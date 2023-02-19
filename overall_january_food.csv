@@ -1,0 +1,173 @@
+commodity_name,quantity_plus_unit,avg_price_this_month_last_year,avg_price_last_month,avg_price_this_month_this_year,pct_change_over_last_month_this_month_vs_last_month,pct_change_over_last_year_this_month_this_year_vs_this_month_last_year,month_year
+Mangoes,1 Kilogramme,109.58,121.58,115.83,-4.7,5.7,January 2023
+Potatoes (Irish),1 Kilogramme,76.16,94.57,91.02,-3.8,19.5,January 2023
+Cowpeas,1 Kilogramme,93.95,136.36,131.41,-3.6,39.9,January 2023
+Onion -Leeks and Bulbs,1 Kilogramme,127.94,121.7,118.9,-2.3,-7.1,January 2023
+Maize Grain - Loose,1 Kilogramme,56.73,77.47,76.42,-1.4,34.7,January 2023
+Kale-Sukuma Wiki,1 Kilogramme,59.36,61.05,60.25,-1.3,1.5,January 2023
+Green grams,1 Kilogramme,151.07,161.13,162.13,0.6,7.3,January 2023
+Beef - With Bones,1 Kilogramme,496.69,527.63,531.8,0.8,7.1,January 2023
+Beans,1 Kilogramme,129.82,163.84,166.67,1.7,28.4,January 2023
+Tomatoes,1 Kilogramme,102.72,97.4,105.25,8.1,2.5,January 2023
+Kerosene/Paraffin,1 Litre,107.46,147.86,147.86,-,37.6,January 2023
+House rent- single room,1 Per Month,"3,793.24","3,896.59","3,908.15",0.3,3,January 2023
+House rent - 2 bedroom,1 Per Month,"17,130.17","17,719.43","17,763.86",0.3,3.7,January 2023
+Electricity,200 Kilowatts,"5,186.96","5,257.70","5,278.44",0.4,1.8,January 2023
+Electricity,50 Kilowatts,796.83,1017.98,1023.16,0.5,28.4,January 2023
+Petrol,1 Litre,130.54,178.05,178.05,-,36.4,January 2023
+Diesel,1 Litre,111.51,162.91,162.91,-,46.1,January 2023
+Private tuition-Primary,1 Per year,"21,643.69","22,016.05","22,237.06",1,2.7,January 2023
+Maize Flour - Loose,1 Kg,48.95,51.65,53.02,2.64,8.32,January 2022
+Maize Flour - Sifted,2 Kg,117.36,118.71,126.31,6.41,7.63,January 2022
+Wheat Flour-White,2 Kg,125.64,142.9,144.45,1.09,14.97,January 2022
+Mangoes,1 Kg,102.41,114.12,109.58,-3.98,7,January 2022
+Spinach,1 Kg,55.77,64.36,68,5.66,21.93,January 2022
+Kale-Sukuma Wiki,1 Kg,50.71,56.17,59.36,5.69,17.06,January 2022
+Cabbages,1 Kg,39.15,49.28,49.96,1.38,27.62,January 2022
+Tomatoes,1 Kg,95.4,103.4,102.72,-0.65,7.68,January 2022
+Carrots,1 Kg,72.59,81.41,81.35,-0.07,12.07,January 2022
+Onion -Leeks and Bulbs,1 Kg,106.2,123.45,127.94,3.64,20.48,January 2022
+Potatoes (Irish),1 Kg,68.44,73.32,76.16,3.87,11.29,January 2022
+House Rent - Single Room,1 Per Month,"3,639.92","3,778.37","3,793.24",0.39,4.21,January 2022
+Electricity,200 Kilowatts,"4,812.64","5,185.96","4,373.12",-15.67,-9.13,January 2022
+Electricity,50 Kilowatts,852.26,945.59,796.83,-15.73,-6.5,January 2022
+Kerosene/Paraffin,1 Litre,88.07,106.46,106.46,0,20.88,January 2022
+Petrol,1 Litre,107.86,130.54,130.54,0,,January 2022
+,,,,,,21.03,January 2022
+"Peas (Garden, Snap, Snow)",1 Kg,116.58,157.39,139.12,-11.61,19.33,January 2021
+Tomatoes,1 Kg,110.47,96.89,95.4,-1.54,-13.64,January 2021
+Mangoes,1 Kg,100.63,105.84,102.41,-3.25,1.77,January 2021
+Oranges,1 Kg,66.24,69.04,67.75,-1.87,2.29,January 2021
+Potatoes (Irish),1 Kg,68.08,67.01,68.44,2.12,0.53,January 2021
+Fortified Maize flour,2 Kg,131.71,116.8,119.49,2.3,-9.28,January 2021
+Cabbages,1 Kg,37.56,37.87,39.15,3.39,4.22,January 2021
+White bread,400 Gram,48.31,48.35,51.52,6.55,6.65,January 2021
+Cooking Oil (Salad),1 Litre,197.53,206.22,227.66,10.4,15.25,January 2021
+House rent,1 Per Month,"3,618.01","3,638.14","3,639.92",0.05,0.61,January 2021
+Electricity,200 KWh,"4,480.86","4,664.41","4,812.64",3.18,7.4,January 2021
+Kerosene/Paraffin,1 Litre,104.49,84.5,88.07,4.22,-15.72,January 2021
+Petrol,1 Litre,110.67,107.69,107.86,0.15,-2.54,January 2021
+Diesel,1 Litre,102.85,92.75,97.33,4.94,,January 2021
+,,,,,,-5.37,January 2021
+Maize Grain - Loose,1 Kg,35.23,51.42,51.53,0.21,46.25,January 2020
+Green Grams,1 Kg,156.19,197.66,195.7,-0.99,25.29,January 2020
+Maize Flour - Sifted,2 Kg,87.2,131.77,131.9,0.1,51.27,January 2020
+Milk - Fresh Unpacketed,1000 ml,61.28,64.16,64.56,0.62,5.35,January 2020
+Cooking Fat,1 KG,235.49,231.54,230.7,-0.36,-2.04,January 2020
+Spinach,1 Kg,46.41,43.43,45.34,4.38,-2.31,January 2020
+Cabbages,1 Kg,38.28,37.98,37.89,-0.23,-1.02,January 2020
+Carrots,1 Kg,63.93,59.16,61.07,3.22,-4.48,January 2020
+Onions,1 Kg,87.27,97.67,102.8,5.25,17.8,January 2020
+Potatoes (Irish),1 Kg,75.42,72.58,72.46,-0.17,-3.93,January 2020
+Sugar,1 Kg,122,108.48,108.79,0.28,-10.83,January 2020
+House Rent,2,,,,,,January 2020
+,Bedrooms,,,,,,January 2020
+,(Flats),"21,559.20","21,734.57","21,915.40",0.83,1.65,January 2020
+House Rent,One Room,"4,456.98","4,526.75","4,634.73",2.39,3.99,January 2020
+Kerosene,1 litre,102.56,102.81,104.46,1.6,1.85,January 2020
+Electricity,200 KWh,"4,485.52","4,514.49","4,480.86",-0.74,-0.1,January 2020
+Electricity,50 KWh,770.48,777.72,769.32,-1.08,-0.15,January 2020
+Gas -(LPG),13 Kg,"2,193.13","2,101.16","2,144.81",2.08,-2.2,January 2020
+_____________________________________________________________,,,,,,,January 2020
+Maize Grain - Loose,1 Kg,59.3,35.05,35.23,0.53,-40.58,January 2019
+Banana - Ripe,1 Kg,99.87,105.49,104.03,-1.38,4.17,January 2019
+Sugar,1 Kg,132.16,125.2,122,-2.56,-7.69,January 2019
+Mangoes,1 Kg,93.86,115.4,112.3,-2.69,19.65,January 2019
+Beans,1 Kg,115.67,107.68,108.64,0.89,-6.08,January 2019
+Milk - Fresh Packeted,500 Ml,60.54,60.74,61.12,0.63,0.95,January 2019
+Rice Grade 1,1 Kg,215.54,220.54,220.67,0.06,2.38,January 2019
+Wheat Flour,2 Kg,135.6,123.86,123.64,-0.18,-8.82,January 2019
+Maize Flour - Sifted,2 Kg,122.88,86.55,87.2,0.75,-29.04,January 2019
+Rice- Grade 2,1 Kg,118.03,124.29,123.9,-0.31,4.98,January 2019
+Maize Flour - Loose,1 Kg,62.18,41.72,41.92,0.5,-32.58,January 2019
+Secondary-Tuition,Per term,"10,610.40","10,655.15","10,795.24",1.31,1.74,January 2019
+Primary-Tuition,Per term,"9,370.62","9,419.41","9,508.57",0.95,1.47,January 2019
+Electricity,200 KWh,"4,069.22","4,434.48","4,485.52",1.15,10.23,January 2019
+Electricity,50 KWh,682.71,757.72,770.48,1.68,12.86,January 2019
+Rent,Single room,"4,261.53","4,436.45","4,456.98",0.46,4.59,January 2019
+Country Bus Fares,350 Km,"1,074.01","1,245.94","1,239.97",-0.48,15.45,January 2019
+City Bus/Matatu Fares,short distance,45.53,50.08,49.82,-0.53,9.43,January 2019
+Diesel,1 litre,95.79,111.89,103.1,-7.86,7.63,January 2019
+Petrol,1 litre,107.17,114.96,104.99,-8.67,-2.03,January 2019
+Kale-Sukuma Wiki,1 Kg,48.74,43.67,48.61,11.29,-0.27,January 2018
+Cabbages,1 Kg,71.58,34.72,38.24,10.15,-46.57,January 2018
+Potatoes (Irish),1 Kg,82.33,54.4,56.1,3.13,-31.85,January 2018
+Beef - With Bones,1 Kg,402.44,428.15,431.24,0.72,7.16,January 2018
+Tomatoes,1 Kg,76.41,94.52,95.89,1.45,25.5,January 2018
+Milk - Fresh Packeted,500 Ml,54.27,60.04,60.54,0.83,11.55,January 2018
+Sugar,1 Kg,133.28,134,132.16,-1.37,-0.83,January 2018
+Mangoes,1 Kg,113.57,114.75,93.86,-18.21,-17.35,January 2018
+Electricity,50 KWh,559.19,669.45,682.71,1.98,22.09,January 2018
+Electricity,200 KWh,"3,575.14","4,016.18","4,069.22",1.32,13.82,January 2018
+Petrol,1 litre,96.88,105.04,107.17,2.03,10.62,January 2018
+Diesel,1 Litre,85.2,92.44,95.79,3.62,12.43,January 2018
+Kerosene,1 Litre,64.41,71.42,75.74,6.05,17.59,January 2018
+Gas -(LPG),13 Kg,"1,989.87","2,141.46","2,140.37",-0.05,7.56,January 2018
+Kale-Sukuma Wiki,1 Kg,36.75,45.7,48.74,6.7,32.6,January 2017
+Maize Flour - Sifted,2 Kg,106.15,115.18,119.64,3.9,12.7,January 2017
+Cabbages,1 Kg,47.75,67.1,71.58,6.7,49.9,January 2017
+Spinach,1 Kg,44.73,46.58,49.52,6.3,10.7,January 2017
+Fresh Packeted Milk,500 Ml,53.44,53.94,54.27,0.6,1.6,January 2017
+Beans,1 Kg,120.92,130.02,132.76,2.1,9.8,January 2017
+Onions,1 Kg,141.74,111.96,114.35,2.1,-19.3,January 2017
+Wheat Flour,2 Kg,130.81,130.24,131.86,1.2,0.8,January 2017
+Loose Maize Grain,1 Kg,41.08,45.78,46.41,1.4,13,January 2017
+Irish Potatoes,1 Kg,74.37,81.43,82.33,1.1,10.7,January 2017
+Mangoes,1 Kg,87.65,117.18,113.57,-3.1,29.6,January 2017
+Single Room,1 Room,"3,969.80","4,070.28","4,092.70",0.6,3.1,January 2017
+Charcoal,4 Kg,78.82,79.2,79.64,0.6,1,January 2017
+Gas - (LPG),13 Kg,"2,343.86","1,983.06","1,989.87",0.3,-15.1,January 2017
+Kerosene,1 litre,47.11,64.52,64.41,-0.1,36.7,January 2017
+Electricity,50 KWh,534.3,558.9,559.19,0.1,4.7,January 2017
+Electricity,200 KWh,"3,398.70","3,497.10","3,575.14",2.2,5.2,January 2017
+Petrol,1 litre,89.52,95.08,96.88,1.9,8.2,January 2017
+Diesel,1 litre,77.66,88.18,85.2,-3.4,9.7,January 2017
+Potatoes (Irish),1 Kg,46.32,76.4,74.37,-2.66,60.57,January 2016
+Tomatoes,1 Kg,90.06,125.6,131.19,4.45,45.67,January 2016
+Onions,1 Kg,94.24,134.34,141.74,5.51,50.41,January 2016
+Cabbages,1 Kg,32.56,43.31,47.75,10.25,46.67,January 2016
+Kale-Sukuma Wiki,1 Kg,32.97,37.07,36.75,-0.87,11.45,January 2016
+Cigarettes,1 Packet,96.89,121.18,121.18,0,25.07,January 2016
+Beer,500 Ml,136.15,155.66,155.66,0,14.33,January 2016
+House rent,One room,"3,676.43","3,934.28","3,969.80",0.9,7.98,January 2016
+Charcoal,4 Kg,73.25,78.42,78.82,0.5,7.61,January 2016
+Electricity,50 KWh,502.4,542.42,534.3,-1.5,6.35,January 2016
+Beef With Bones,1 Kg,355.98,386.66,387.96,0.3,9,January 2015
+Cabbages,1 Kg,51.7,29.14,32.56,11.7,-37,January 2015
+Sukuma Wiki,,,,,,,January 2015
+(Kales),1 Kg,45.01,31.23,32.97,5.6,-26.7,January 2015
+Tomatoes,1 Kg,81.28,83.89,90.06,7.4,10.8,January 2015
+Onions,1 Kg,114.53,91.81,94.24,2.6,-17.7,January 2015
+Potatoes (Irish),1 Kg,52.05,46.39,46.32,-0.2,-11,January 2015
+Maize Flour - Sifted,2 Kg,112.21,103.93,100.93,-2.9,-10.1,January 2015
+Maize Grain - Loose,1 Kg,43.84,42.57,42.18,-0.9,-3.8,January 2015
+Maize Flour - Loose,1 Kg,56.9,45.77,44.59,-2.6,-21.6,January 2015
+Matatu Fares,About 250 Km,365.55,405.29,403.45,-0.5,10.4,January 2015
+Country Bus Fares,About 350 Km,902.61,972.58,964.01,-0.9,6.8,January 2015
+Kerosene,1 litre,85.81,72.3,66.53,-8,-22.5,January 2015
+Gas(LPG),13 Kg,"2,995.22","3,018.45","2,954.36",-2.1,-1.4,January 2015
+Electricity,50 KW/h,526.7,521.54,502.4,-3.7,-4.6,January 2015
+Electricity,200 KW/h,"3,285.90","3,509.48","3,432.92",-2.2,4.5,January 2015
+Diesel,1 litre,106.26,91.79,84.3,-8.2,-20.7,January 2015
+Tomatoes,1 Kg,72.78,67.05,81.28,21.23,11.68,January 2014
+Onions,1 Kg,101.38,107.92,114.53,6.12,12.97,January 2014
+Potatoes (Irish),1 Kg,55.47,51.21,52.05,1.63,-6.17,January 2014
+Mangoes,1 Kg,73.11,63.57,60.69,-4.53,-17,January 2014
+Kale-Sukuma Wiki,1 Kg,34.08,43.83,45.01,2.71,32.06,January 2014
+Beef - With Bones,1 Kg,331.49,354.4,355.98,0.44,7.39,January 2014
+Electricity,50 Kwh,568,517.2,526.7,1.84,-7.27,January 2014
+Gas (LPG),13 Kg,"2,630.73","2,876.00","2,995.22",4.15,13.86,January 2014
+Kerosene,1 litre,83.49,83.93,85.81,2.24,2.78,January 2014
+Petrol,1 litre,112.86,110.82,111.98,1.05,-0.77,January 2014
+Diesel,1 litre,106.2,105.39,106.26,0.82,0.05,January 2014
+Sugar,1 Kg,145.34,122.07,122.16,0.1,-15.9,January 2013
+Sifted Maize Flour,2 Kg,111.74,112.36,112.14,-0.2,0.4,January 2013
+Wheat Flour,2 Kg,144.24,138.34,139.6,0.9,-3.2,January 2013
+Packed milk,500 Ml,33.56,35.89,38.31,6.7,14.2,January 2013
+Offals (Matumbo),1 Kg,180.84,193.52,194.28,0.4,7.4,January 2013
+Electricity,50 Kwhr,736,577,568,-1.6,-22.8,January 2013
+Electricity,200 Kwhr,"3,730.00","3,094.00","3,058.00",-1.2,-18,January 2013
+Gas (LPG),13 Kg,"3,149.63","2,604.55","2,630.73",1,-16.5,January 2013
+Kerosene,1 litre,87.93,86.01,83.49,-2.9,-5.1,January 2013
+Petrol,1 litre,113.41,113.64,112.86,-0.7,-0.5,January 2013
+Diesel,1 litre,108.18,106.83,106.2,-0.6,-1.8,January 2013
