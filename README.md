@@ -21,8 +21,9 @@ I collected data via the [Glovo app](https://glovoapp.com/) on the cost of items
 <h2>How I analysed cost of cooking fuel and electricity</h2>
 I got the government data for cooking fuel and electricity over the years. I then divided it by data on minimum wage over the years to get the trend.
 
-<h2>#Data sources</h2>
+<h2>Data sources</h2>
 Kenya National Bureau of Statistics
+
 Glovo app
 
 Tech: #Python, #R, #Datawrapper, #Canva, #HTML, #CSS
