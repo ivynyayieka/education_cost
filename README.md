@@ -25,6 +25,8 @@ I got the government data for cooking fuel and electricity over the years. I the
 Kenya National Bureau of Statistics
 
 Glovo app
+
 Trading Economics 
+
 Tech: #Python, #R, #Datawrapper, #Canva, #HTML, #CSS
 
