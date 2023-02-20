@@ -19,12 +19,12 @@ A further step in the visualisation would be to use the ggplot version in the no
 I collected data via the [Glovo app](https://glovoapp.com/) on the cost of items in Nairobi's most popular supermarkets compared to the cost government statistics assigned them on the KNBS website.
 
 <h2>How I analysed cost of cooking fuel and electricity</h2>
-I got the government data for cooking fuel and electricity over the years. I then divided it by data on minimum wage over the years to get the trend.
+I got the government data for cooking fuel and electricity over the years. I then divided it by data on minimum wage over the years to get the trend. Minimum wage data is from [Trading Economics](https://tradingeconomics.com/kenya/minimum-wages)
 
 <h2>Data sources</h2>
 Kenya National Bureau of Statistics
 
 Glovo app
-
+Trading Economics 
 Tech: #Python, #R, #Datawrapper, #Canva, #HTML, #CSS
 
