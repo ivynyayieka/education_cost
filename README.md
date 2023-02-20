@@ -1,7 +1,7 @@
 In this project, I analysed the rising cost of education in Kenya and the low income teachers earn. 
 
 <h2>How I analysed rising cost of education:</h2>
-I scraped the [Kenya National Bureau of Statistics](https://www.knbs.or.ke/data-releases/) website to download the PDFs with details of Consumer Price Index every January for the last decade.  
+I scraped the [Kenya National Bureau of Statistics] (https://www.knbs.or.ke/data-releases/) website to download the PDFs with details of Consumer Price Index every January for the last decade.  
 With the results, I scraped the PDFs for the tables inside.
 I merged the relevant resulting CSVs, got the percentage rise in the cost of education and assigned 2010 as the base, giving it 100%. 
 
