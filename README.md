@@ -6,9 +6,9 @@ With the results, I scraped the PDFs for the tables inside.
 I merged the relevant resulting CSVs, got the percentage rise in the cost of education and assigned 2010 as the base, giving it 100%. 
 
 <h2>How I analysed cost of kindergartens and the cost of universities:</h2>
-I researched school fees for a variety of schools across different parts of Nairobi for school fees for PP1 students. 
-The cost of universities is publicly available.
-A further analysis would focus specifically on the best ranked primary schools in Nairobi so that I can better compare it to the University of Nairobi school fees.
+I researched school fees for a variety of schools across different parts of Nairobi for school fees for PP1 students. I found that they were much higher than the cost of fees at the University of Nairobi. 
+To compare like with like, I found out through calling the schools the tuition fees for some of the 20 best ranked primary schools in Nairobi for PP1 students.
+The cost of universities is publicly available so I used just the best-ranked university fees cost.
 
 <h2>How I analysed the cost of living</h2>
 For this, I scraped the  PDFs of the government food basket statistics for the last decade.
