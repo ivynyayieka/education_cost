@@ -1,3 +1,4 @@
+# [Cost of education in Kenya continues to rise but teachers still earn minimum wage](https://ivynyayieka.github.io/education_cost/)
 In this project, I analysed the rising cost of education in Kenya and the low income teachers earn. 
 
 <h2>How I analysed rising cost of education:</h2>
