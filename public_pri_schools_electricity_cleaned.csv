@@ -1,0 +1,49 @@
+S/No,Name Of County,National Grid,Solar,No Power,Total
+1,Mombasa,93,0,2,95
+2,Kwale,349,51,21,421
+3,Kilifi,439,101,10,550
+4,Tana River,47,121,10,178
+5,Lamu,58,50,0,108
+6,Taita/Taveta,200,10,0,210
+7,Garissa,69,176,3,248
+8,Wajir,60,177,21,258
+9,Mandera,14,206,62,282
+10,Marsabit,48,125,9,182
+11,Isiolo,41,69,0,110
+12,Meru,709,7,11,727
+13,Tharaka-Nithi,353,71,2,426
+14,Embu,370,11,0,381
+15,Kitui,885,484,45,"1,414"
+16,Machakos,818,28,8,854
+17,Makueni,775,115,15,905
+18,Nyandarua,349,1,0,350
+19,Nyeri,391,0,0,391
+20,Kirinyaga,197,1,0,198
+21,Murang a,513,1,0,514
+22,Kiambu,461,0,1,462
+23,Turkana,41,379,28,448
+24,West Pokot,231,338,85,654
+25,Samburu,40,115,8,163
+26,Trans Nzoia,365,2,10,377
+27,Uasin Gishu,460,0,14,474
+28,Elgeyo/Marakwet,371,19,9,399
+29,Nandi,718,0,13,731
+30,Baringo,566,183,51,800
+31,Laikipia,245,53,2,300
+32,Nakuru,680,25,22,727
+33,Narok,143,518,53,714
+34,Kajiado,257,249,16,522
+35,Kericho,497,1,0,498
+36,Bomet,666,1,24,691
+37,Kakamega,887,9,13,909
+38,Vihiga,380,0,4,384
+39,Bungoma,749,15,23,787
+40,Busia,440,4,1,445
+41,Siaya,647,9,3,659
+42,Kisumu,615,0,0,615
+43,Homa Bay,763,22,0,785
+44,Migori,617,2,6,625
+45,Kisii,694,1,3,698
+46,Nyamira,407,0,0,407
+47,Nairobi,300,5,2,307
+,Total,"19,018","3,755",610,"23,383"
